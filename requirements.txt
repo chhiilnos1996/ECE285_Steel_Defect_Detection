@@ -97,7 +97,7 @@ numpy==1.17.2
 nvstrings-cuda92==0.9.0
 oauthlib==3.0.1
 olefile==0.46
-opencv-python==4.1.1.26
+opencv-python==4.2.0.32
 packaging==19.2
 pamela==1.0.0
 pandas==0.24.2
