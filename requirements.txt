@@ -118,7 +118,7 @@ psutil==5.6.7
 psycopg2==2.8.3
 ptyprocess==0.6.0
 py==1.8.0
-pyarrow==0.14.1
+pyarrow==0.15.1
 pycosat==0.6.3
 pycparser==2.19
 pycurl==7.43.0.3
